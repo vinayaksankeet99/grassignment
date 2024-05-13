@@ -1,4 +1,6 @@
 # Greggs.Products
+## Assignment demo
+![Video Demo](https://drive.google.com/file/d/1JdCy9r8Qoj45Yy7yqtHd4_t1lDZUCOrT/view?usp=sharing)
 ## Introduction
 Hello and welcome to the Greggs Products repository, thanks for finding it!
 
